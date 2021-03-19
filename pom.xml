@@ -35,9 +35,9 @@
 
 	<repositories>
 		<repository>
-			<id>ruleslawyer-core</id>
+			<id>project.local</id>
 			<name>ruleslawyer-core</name>
-			<url>ruleslawyer-api/repo</url>
+			<url>file:${project.basedir}/repo</url>
 		</repository>
 	</repositories>
 
