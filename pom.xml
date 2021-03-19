@@ -33,6 +33,14 @@
 		</dependency>
 	</dependencies>
 
+	<repositories>
+		<repository>
+			<id>ruleslawyer-core</id>
+			<name>ruleslawyer-core</name>
+			<url>ruleslawyer-api/repo</url>
+		</repository>
+	</repositories>
+
 	<build>
 		<plugins>
 			<plugin>
